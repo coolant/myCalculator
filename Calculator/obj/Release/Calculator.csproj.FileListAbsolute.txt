@@ -1,0 +1,5 @@
+C:\Users\Aykut\Source\Repos\myCalculator\Calculator\obj\Release\MainWindow.g.cs
+C:\Users\Aykut\Source\Repos\myCalculator\Calculator\obj\Release\App.g.cs
+C:\Users\Aykut\Source\Repos\myCalculator\Calculator\obj\Release\Calculator_MarkupCompile.cache
+C:\Users\Aykut\Source\Repos\myCalculator\Calculator\obj\Release\Calculator_MarkupCompile.lref
+C:\Users\Aykut\Source\Repos\myCalculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
